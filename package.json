@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/keycaser.git"
+    "url": "git+https://github.com/erikkostashuk/keycaser.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/keycaser/issues"
+    "url": "https://github.com/erikkostashuk/keycaser/issues"
   },
-  "homepage": "https://github.com/yourusername/keycaser#readme",
+  "homepage": "https://github.com/erikkostashuk/keycaser#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/node": "^20.0.0",
