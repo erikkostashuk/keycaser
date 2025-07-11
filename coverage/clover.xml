@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1752269839464" clover="3.2.0">
+  <project timestamp="1752269839464" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="15" coveredconditionals="13" methods="9" coveredmethods="9" elements="49" coveredelements="47" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/erikkostashuk/Documents/GitHub/keycaser/src/index.ts">
+      <metrics statements="25" coveredstatements="25" conditionals="15" coveredconditionals="13" methods="9" coveredmethods="9"/>
+      <line num="2" count="24" type="stmt"/>
+      <line num="6" count="37" type="stmt"/>
+      <line num="10" count="88" type="cond" truecount="3" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="46" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="9" type="stmt"/>
+      <line num="18" count="42" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="15" type="stmt"/>
+      <line num="20" count="15" type="stmt"/>
+      <line num="21" count="24" type="cond" truecount="1" falsecount="1"/>
+      <line num="22" count="24" type="stmt"/>
+      <line num="23" count="24" type="stmt"/>
+      <line num="26" count="15" type="stmt"/>
+      <line num="29" count="27" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="50" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="9" type="stmt"/>
+      <line num="37" count="46" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="16" type="stmt"/>
+      <line num="39" count="16" type="stmt"/>
+      <line num="40" count="27" type="cond" truecount="1" falsecount="1"/>
+      <line num="41" count="27" type="stmt"/>
+      <line num="42" count="27" type="stmt"/>
+      <line num="45" count="16" type="stmt"/>
+      <line num="48" count="30" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,45 @@
+{
+  "name": "keycaser",
+  "version": "1.0.0",
+  "description": "Recursively convert object keys to camelCase or snake_case",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch",
+    "clean": "rm -rf dist coverage",
+    "prepublishOnly": "npm run clean && npm run build && npm test",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "json",
+    "camelCase",
+    "snake_case",
+    "convert",
+    "keys",
+    "utility",
+    "typescript"
+  ],
+  "author": "devwitherik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/keycaser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/keycaser/issues"
+  },
+  "homepage": "https://github.com/yourusername/keycaser#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^20.0.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
