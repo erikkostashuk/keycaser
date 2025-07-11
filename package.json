@@ -1,6 +1,6 @@
 {
   "name": "keycaser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively convert object keys to camelCase or snake_case",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
